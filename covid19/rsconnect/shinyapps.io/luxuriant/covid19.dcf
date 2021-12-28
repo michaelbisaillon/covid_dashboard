@@ -1,0 +1,13 @@
+name: covid19
+title: covid19
+username:
+account: luxuriant
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5370206
+bundleId: 5410687
+url: https://luxuriant.shinyapps.io/covid19/
+when: 1640562155.27128
+lastSyncTime: 1640562155.27129
+asMultiple: FALSE
+asStatic: FALSE
